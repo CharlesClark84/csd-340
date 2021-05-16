@@ -1,0 +1,64 @@
+h1 {
+  text-align:center;
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.carousel-inner > .item > img {
+  width:800px;
+  height:800px;
+  margin: 0 auto;
+}
+
+#port {
+  max-width: 50%;
+  float: right;
+}
+
+.chess {
+    margin:left;
+    max-width: 30%;
+}
+
+.tim {
+  text-align: center;
+}
+
+.left {
+  float:right;
+  margin-bottom: 125px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+#bioInfo {
+  margin: 15px;
+}
+
+.tim {
+  font-size: 20px;
+  border: 2px solid grey;
+  border-radius: 5px;
+  background-color: lightblue;
+padding: 5px;
+}
+
+.tim:hover {
+  background-color: lightyellow;
+  text-decoration: none;
+}
+
+ul {
+  text-align: center;
+  margin: auto;
+}
